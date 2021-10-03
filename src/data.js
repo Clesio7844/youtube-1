@@ -78,7 +78,7 @@ export const popularProducts = [
   {
     id: 7,
     img:
-      'https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png'
+      'https://cdn-images.farfetch-contents.com/15/28/21/41/15282141_27486062_300.jpg'
   },
   {
     id: 8,
