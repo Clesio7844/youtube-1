@@ -109,7 +109,9 @@ const Product = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia
             labore est, earum adipisci exercitationem in maiores recusandae,
             nostrum ducimus, eaque nulla perferendis deleniti! Quasi aspernatur
-            nobis nulla! Dignissimos, rerum doloribus.
+            nobis nulla! Dignissimos, rerum doloribus. nostrum ducimus, eaque
+            nulla perferendis deleniti! Quasi aspernatur nobis nulla!
+            Dignissimos, rerum doloribus.
           </Desc>
           <Price>£ 20</Price>
           <FilterContainer>
